@@ -15,16 +15,16 @@ Most of this is just me tinkering and learning in my free time, so feel free to 
 
 ### 📌 Pinned Projects
 
-Here are a few things I'm working on or proud of:
+Here are a few things I'm proud of:
 
+- [**RPG Character Builder**](https://github.com/Lasse-Rodal/rpg-character-builder)  
+  A fantasy-themed React app where users create and customize a character with images, stats, and class/race-based modifiers.
+  
 - [**Coffee Shop Landing Page**](https://github.com/Lasse-Rodal/Coffee-Shop)  
   Responsive layout with interactive cart and receipt system.
 
 - [**Fylo Landing Page**](https://github.com/Lasse-Rodal/Fylo-dark-theme-landing-page-Frontend-Mentor-Challenge)  
   A Frontend Mentor challenge completed with attention to design detail.
-  
-- [**To-Do List Web App**](https://github.com/Lasse-Rodal/To-Do-List)  
-  A simple but functional task tracker using localStorage.
 
 ---
 
